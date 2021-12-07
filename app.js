@@ -10,6 +10,10 @@ app.use(morgan("dev"));
 
 const test = [];
 const test12 = {};
+const aaa = "";
+const bbb = "";
+const ccc = "";
+
 app.listen(PORT, () => {
   console.log(`${PORT} SERVER START`);
 });
